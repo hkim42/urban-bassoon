@@ -8,6 +8,6 @@ The urban-bassoon is a program that provide customized trails that help users av
 ## Product User Stories
 As someone walking late at night, I want a well-lit route that helps me stay safe.
 As someone allergic to pollen, I want a trail that helps me avoid it.
-As someone incompatible with sunscreen, I want a trail with as much shades as possible.
+As someone who does not like wearing sunscreen, I want a trail with as much shades as possible.
 
 ## Minimum Viable Product
