@@ -12,5 +12,7 @@ As someone who does not like wearing sunscreen, I want a trail with as much shad
 
 ## Minimum Viable Product
 urban_bassoon.html: main file for viewing routes, no feature yet
+
 sample_configuration.js: define user arguments here such as API key and starting point
+
 sample_get_pollen_data.py: use this script to get pollen data, API seems broken from the Google side
