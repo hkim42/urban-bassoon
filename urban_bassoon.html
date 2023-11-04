@@ -241,17 +241,7 @@
         const CONFIGURATION = {
             "defaultTravelMode": "WALKING",
             "distanceMeasurementType": "IMPERIAL",
-            "initialDestinations": [
-                {
-                    "placeId": "ChIJPcr187JrkFQRLApO8QKP8ZM",
-                    "travelMode": "PUBLIC_TRANSIT"
-                },
-                {
-                    "placeId": "ChIJoZv0y8hqkFQRQcB9L4Wi1EM",
-                    "travelMode": "WALKING"
-                }
-            ],
-            "mapOptions": { "center": { "lat": 47.6115, "lng": -122.3222 }, "fullscreenControl": true, "mapTypeControl": false, "streetViewControl": false, "zoom": 14, "zoomControl": true, "maxZoom": 20, "mapId": "" },
+            "mapOptions": { "center": getLatLng(), "fullscreenControl": true, "mapTypeControl": false, "streetViewControl": false, "zoom": 14, "zoomControl": true, "maxZoom": 20, "mapId": "" },
         };
 
         function initMap() {
